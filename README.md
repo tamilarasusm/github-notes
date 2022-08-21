@@ -33,3 +33,22 @@ git pull
 ```
 git fetch
 ```
+
+### Add Local Changes
+
+- Add latest changes to staging without deletions on the current and subdirectories
+```
+git add .
+```
+
+- Add all changes to staging (With deletions, newly added files and modification files)
+```
+git add -A
+```
+
+- Add list of files changes to the staging
+```
+git add <filenames>
+```
+
+
