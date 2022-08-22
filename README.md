@@ -51,4 +51,9 @@ git add -A
 git add <filenames>
 ```
 
+### Local changes ffile status
 
+-Get the status of the staging with tracked and untracked file changes 
+```
+git status
+```
